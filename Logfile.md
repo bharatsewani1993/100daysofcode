@@ -2,7 +2,7 @@
 
 ## Day 0 [8-June-2018]
 Today is day zero of my challenge. I am setting up Github repository and planning what I have to code in next 100 days.
-Repository Link [Link](https://github.com/bharatsewani1993/100daysofcode)
+Repository [Link](https://github.com/bharatsewani1993/100daysofcode)
 
 
 
