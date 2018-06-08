@@ -3,7 +3,7 @@
 ## 100 days of code in Golang.
 
 # Contents
-  * [Rules](/rules.md)
-  * [Log - click here to see my progress] (../logfile.md)
-  * [FAQ] (../faq.md)
-  * [Resources] (../resources.md)
+  * [Rules](/Rules.md)
+  * [Log - click here to see my progress](/Logfile.md)
+  * [FAQ](/Faq.md)
+  * [Resources](/resources.md)
