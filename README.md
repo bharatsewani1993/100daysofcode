@@ -6,4 +6,4 @@
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)
   * [FAQ](/Faq.md)
-  * [Resources](/resources.md)
+  * [Resources](/Resources.md)

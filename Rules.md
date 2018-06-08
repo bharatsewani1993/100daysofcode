@@ -27,5 +27,5 @@ June 09th, 2018.
 * [FAQ](/FAQ.md)
 * [Resources](/Resources.md)
 
-##Special Thanks
+## Special Thanks
 [100DaysofCode Official Rule List](https://github.com/kallaway/100-days-of-code/blob/master/rules.md)
