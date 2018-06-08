@@ -5,7 +5,7 @@
 # Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)
-  * [FAQ](/Faq.md)
+  * [FAQ](/FAQ.md)
   * [Resources](/Resources.md)
 
 ## Special Thanks
