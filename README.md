@@ -1,2 +1,9 @@
-# 100daysofcode
-100 days of code in Golang.
+# [I've joined the #100DaysOfCode Challenge](http://www.100daysofcode.com/ "Official Website")
+
+## 100 days of code in Golang.
+
+# Contents
+  * [Rules] (../rules.md)
+  * [Log - click here to see my progress] (../logfile.md)
+  * [FAQ] (../faq.md)
+  * [Resources] (../resources.md)
