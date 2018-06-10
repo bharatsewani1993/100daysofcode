@@ -7,8 +7,15 @@ Repository [Link](https://github.com/bharatsewani1993/100daysofcode)
 ## Day 1 [9-june-2018]
 It was a great day, most of the time I spend to decide scope and features of the re-tweet bot.  Once I did with that I started to read about similar bots and searched for twitter suggested Golang packages.  I decided to use Anaconda and begin to code.  I coded the search and retweet part of the bot. For next few days, I'll work on the same project and improve its features.
 Repository [Link](https://github.com/bharatsewani1993/ReTweetBot)
+
 Demo [URL](https://youtu.be/1GSKwWceUkQ)
 
+## Day 2 [10-june-2018]
+I woke up excited to work on my Retweet Bot. I already did with setup and today's task was clear in my mind. First of all, I arranged the code in the modular and structured way, then began to code for following back option.
+As more as I am working on its new features and improvement with code coming to mind. for next few days improve it more and try to add more features to it.
+Repository [Link](https://github.com/bharatsewani1993/ReTweetBot)
+
+Demo [URL](https://goo.gl/EY7HBg)
 
 
 ## Contents
