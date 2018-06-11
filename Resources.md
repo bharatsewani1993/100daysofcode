@@ -33,14 +33,16 @@ Twitter API for Golang [Link](https://github.com/ChimeraCoder/anaconda)
 [Twitter API Docs](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)
 
 ### Day Two.
-MySQL Golang Drivers
-[link](https://github.com/go-sql-driver/mysql)
+[MySQL Golang Drivers link](https://github.com/go-sql-driver/mysql)
 
-Document link of Twitter Follow endpoint
-[link](https://goo.gl/RmfCbT)
+[Document link of Twitter Follow endpoint link](https://goo.gl/RmfCbT)
 
-Anaconda Documentation of Follow function
-[link](https://goo.gl/W3Ftpz)
+[Anaconda Documentation of Follow function link](https://goo.gl/W3Ftpz)
+
+### Day Three.
+[Golang Meta Linter]
+(https://github.com/alecthomas/gometalinter)
+
 
 ## Contents
 * [Rules](/Rules.md)
