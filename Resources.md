@@ -40,8 +40,10 @@ Twitter API for Golang [Link](https://github.com/ChimeraCoder/anaconda)
 [Anaconda Documentation of Follow function link](https://goo.gl/W3Ftpz)
 
 ### Day Three.
-[Golang Meta Linter]
-(https://github.com/alecthomas/gometalinter)
+[Golang Meta Linter](https://github.com/alecthomas/gometalinter)
+
+### Day Four.
+[Used All Above resources for the day. For next few days I'll use them again and again to complete my bot]
 
 
 ## Contents

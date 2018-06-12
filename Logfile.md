@@ -20,6 +20,11 @@ Yesterday night after pushing my code to Github I sent it for the review to one 
 [Link](https://github.com/bharatsewani1993/ReTweetBot)
 Demo [URL](https://youtu.be/foqpBFhnIIA)
 
+## Day 4 [12-june-2018]
+Today I worked on Greet the follower back via DM. I want to modify it to greet only new followers. I'll work on this in upcoming days.
+[Link](https://github.com/bharatsewani1993/ReTweetBot)
+Demo [URL](https://youtu.be/75oQIAMaed4)
+
 
 ## Contents
   * [Rules](/Rules.md)
