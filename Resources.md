@@ -45,6 +45,9 @@ Twitter API for Golang [Link](https://github.com/ChimeraCoder/anaconda)
 ### Day Four.
 [Used All Above resources for the day. For next few days I'll use them again and again to complete my bot]
 
+### Day 5.
+[Took help from this stackoverflow answer.](https://goo.gl/ZHTvR4)
+
 
 ## Contents
 * [Rules](/Rules.md)
