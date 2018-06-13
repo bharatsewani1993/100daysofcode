@@ -8,7 +8,7 @@
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ## Tutorials
-
+[My Youtube channel](https://goo.gl/rmEsJp)
 ## Podcasts
 
 
