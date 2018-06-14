@@ -26,10 +26,14 @@ Today I worked on Greet the follower back via DM. I want to modify it to greet o
 
 Demo [URL](https://youtu.be/75oQIAMaed4)
 
-## Day5 [12-june-2018]
+## Day5 [13-june-2018]
 Today I worked to fix bug on existing code.  Added feature to follow and greet only new users. Created function to find the difference between two slice elements. Worked with database queries and tried to create batch update and insert queries to update multiple data in one shot.
 [Link](https://github.com/bharatsewani1993/ReTweetBot)
 
+
+## Day6 [14-june-2018]
+Today I worked to do only new and unique retweets. I finished all the features of the bot, for next few days I'll work on the cron job and testing of the bot. I'll try to add CI/Cd with it.
+[Link](https://goo.gl/fGerz7)
 
 
 ## Contents
