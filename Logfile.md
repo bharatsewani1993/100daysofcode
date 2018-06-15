@@ -26,14 +26,18 @@ Today I worked on Greet the follower back via DM. I want to modify it to greet o
 
 Demo [URL](https://youtu.be/75oQIAMaed4)
 
-## Day5 [13-june-2018]
+## Day 5 [13-june-2018]
 Today I worked to fix bug on existing code.  Added feature to follow and greet only new users. Created function to find the difference between two slice elements. Worked with database queries and tried to create batch update and insert queries to update multiple data in one shot.
 [Link](https://github.com/bharatsewani1993/ReTweetBot)
 
 
-## Day6 [14-june-2018]
+## Day 6 [14-june-2018]
 Today I worked to do only new and unique retweets. I finished all the features of the bot, for next few days I'll work on the cron job and testing of the bot. I'll try to add CI/Cd with it.
 [Link](https://goo.gl/fGerz7)
+
+## Day 7 [15-june-2018]
+Yesterday, I shared the bot on social media sites with the description of it.  I got 40 followers and some of them were bot followers which were automatically following the account and once the account user follows them back they unfollow the user. [Example Account](https://twitter.com/deadat0)  Today I code to unfollow such accounts. [Link](https://github.com/bharatsewani1993/ReTweetBot/commit/554b88d2f5a6c902b92afc600955a49125fec89c)
+
 
 
 ## Contents

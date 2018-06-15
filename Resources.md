@@ -51,6 +51,8 @@ Twitter API for Golang [Link](https://github.com/ChimeraCoder/anaconda)
 ### Day 6.
 Used all the old resources mentioned in last days.
 
+### Day 7.
+Used all the old resources mentioned in last days.
 
 ## Contents
 * [Rules](/Rules.md)
