@@ -54,6 +54,9 @@ Used all the old resources mentioned in last days.
 ### Day 7.
 Used all the old resources mentioned in last days.
 
+### Day 8.
+Used all the old resources mentioned in last days.
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)

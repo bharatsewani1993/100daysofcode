@@ -38,6 +38,8 @@ Today I worked to do only new and unique retweets. I finished all the features o
 ## Day 7 [15-june-2018]
 Yesterday, I shared the bot on social media sites with the description of it.  I got 40 followers and some of them were bot followers which were automatically following the account and once the account user follows them back they unfollow the user. [Example Account](https://twitter.com/deadat0)  Today I code to unfollow such accounts. [Link](https://github.com/bharatsewani1993/ReTweetBot/commit/554b88d2f5a6c902b92afc600955a49125fec89c)
 
+## Day 8 [16-june-2018]
+Tonight I was surfing through Github repositories and looking for an issue to fix in them. I found a simple open typo issue on https://github.com/astaxie/build-web-application-with-golang . I forked the repository and fixed the bug and submitted it for verify. I created the cron job for my Golangjob Retweet bot it will execute it in every 6 hours.  Today I started to plan for my next Golang project and begin to work on it. 
 
 
 ## Contents
