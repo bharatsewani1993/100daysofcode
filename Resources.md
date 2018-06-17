@@ -57,6 +57,12 @@ Used all the old resources mentioned in last days.
 ### Day 8.
 Used all the old resources mentioned in last days.
 
+### Day 9.
+[Building simple web server with Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/03.2.md)
+[Golang Template Tutorials]
+(https://github.com/astaxie/build-web-application-with-golang/blob/master/en/07.4.md)
+
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)
