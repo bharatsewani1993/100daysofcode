@@ -45,6 +45,9 @@ Tonight I was surfing through Github repositories and looking for an issue to fi
 Today I decided to build a simple web application with Golang. I created a simple web server with it and tried to learn about the template. I spend lots of time on Golang Template and tried many tutorials but got no luck to implement it as I wanted to implement. I'll learn more about it and create a simple third party API integration with it.
 [Repository Link](https://github.com/bharatsewani1993/smsapplication)
 
+## Day 10 [18-June-2018]
+I wanted to use a predefined theme for this application, I spend a lot of time to setup it with Golang but it was crashing and was not resulting in the rendering on the browser.  I decided to move ahead by creating own view with simple HTML. Loaded the Login page, with Ajax send data to the server, done form validation and created a function to connect to the database. I'll continue to work on login and send the message for next few days.  
+[Repository Link](https://github.com/bharatsewani1993/smsapplication/commit/dd87cac7af4505ba6b75d8b6a7a4d1f2251e3223)
 
 ## Contents
   * [Rules](/Rules.md)

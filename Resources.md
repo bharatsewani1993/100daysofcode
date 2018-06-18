@@ -62,6 +62,9 @@ Used all the old resources mentioned in last days.
 [Golang Template Tutorials]
 (https://github.com/astaxie/build-web-application-with-golang/blob/master/en/07.4.md)
 
+### Day 10.
+Used all the old resources mentioned in last days.
+
 
 ## Contents
 * [Rules](/Rules.md)
