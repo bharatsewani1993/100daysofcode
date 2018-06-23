@@ -49,6 +49,10 @@ Today I decided to build a simple web application with Golang. I created a simpl
 I wanted to use a predefined theme for this application, I spend a lot of time to setup it with Golang but it was crashing and was not resulting in the rendering on the browser.  I decided to move ahead by creating own view with simple HTML. Loaded the Login page, with Ajax send data to the server, done form validation and created a function to connect to the database. I'll continue to work on login and send the message for next few days.  
 [Repository Link](https://github.com/bharatsewani1993/smsapplication/commit/dd87cac7af4505ba6b75d8b6a7a4d1f2251e3223)
 
+## Day 11 [23-June-2018]
+I completed the send message process of the application using Twilio API. I was unable to code for four days in past so decided to code two hours each day for next two days.  
+[Repository Link](https://github.com/bharatsewani1993/smsapplication/commit/7d6c41f86ee98b5d8f233e4b6238e65f7055fa1b)
+
 ## Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)
