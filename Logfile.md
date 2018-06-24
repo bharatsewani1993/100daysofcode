@@ -53,6 +53,10 @@ I wanted to use a predefined theme for this application, I spend a lot of time t
 I completed the send message process of the application using Twilio API. I was unable to code for four days in past so decided to code two hours each day for next two days.  
 [Repository Link](https://github.com/bharatsewani1993/smsapplication/commit/7d6c41f86ee98b5d8f233e4b6238e65f7055fa1b)
 
+## Day 12 [24-june-2018]
+I decided to create a new repository and add all the slice functions into it. For next few days, I'll practise functions and try with different slice/array functions.
+[Repository Link](https://github.com/bharatsewani1993/slicefunctions)
+
 ## Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)
