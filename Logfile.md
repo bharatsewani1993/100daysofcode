@@ -57,6 +57,10 @@ I completed the send message process of the application using Twilio API. I was 
 I decided to create a new repository and add all the slice functions into it. For next few days, I'll practise functions and try with different slice/array functions.
 [Repository Link](https://github.com/bharatsewani1993/slicefunctions)
 
+## Day 13 [25-june-2018]
+I spend about one hour to work on array function but still not got the desired result. I'll work on it for next few days.
+[Repository Link](https://github.com/bharatsewani1993/slicefunctions/commit/c43ce6276a992a0f592e8b8e9952e0ec3f310558)
+
 ## Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)

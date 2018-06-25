@@ -25,24 +25,24 @@
 
 ## Day Wise Resorces and Help
 
-### Day one.
+### Day 1.
 Twitter API for Golang [Link](https://github.com/ChimeraCoder/anaconda)
 
 [Document Link of API](https://godoc.org/github.com/ChimeraCoder/anaconda)
 
 [Twitter API Docs](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)
 
-### Day Two.
+### Day 2.
 [MySQL Golang Drivers link](https://github.com/go-sql-driver/mysql)
 
 [Document link of Twitter Follow endpoint link](https://goo.gl/RmfCbT)
 
 [Anaconda Documentation of Follow function link](https://goo.gl/W3Ftpz)
 
-### Day Three.
+### Day 3.
 [Golang Meta Linter](https://github.com/alecthomas/gometalinter)
 
-### Day Four.
+### Day 4.
 [Used All Above resources for the day. For next few days I'll use them again and again to complete my bot]
 
 ### Day 5.
@@ -69,6 +69,9 @@ Used all the old resources mentioned in last days.
 [Golang Twilio API Wrapper](https://github.com/subosito/twilio)
 
 ### Day 12
+Used all the old resources mentioned in last days.
+
+### Day 13
 Used all the old resources mentioned in last days.
 
 ## Contents
