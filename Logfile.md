@@ -61,6 +61,11 @@ I decided to create a new repository and add all the slice functions into it. Fo
 I spend about one hour to work on array function but still not got the desired result. I'll work on it for next few days.
 [Repository Link](https://github.com/bharatsewani1993/slicefunctions/commit/c43ce6276a992a0f592e8b8e9952e0ec3f310558)
 
+## Day 14 [28-june-2018]
+I come from the PHP background where we already have plenty of array functions to perform array operations.  But in case of Golang its really raw and don't have such facilities in it. From last some days, I was struggling to write effective code for Array_chunk and finally today I made it done.
+I'll continue my practice for the day and try to Implement more functions in it. [Repository Link](https://github.com/bharatsewani1993/slicefunctions/commit/0956155a83b96dfffff5c70b3313e3b028078e11)
+
+
 ## Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)

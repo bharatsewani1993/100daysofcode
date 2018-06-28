@@ -74,6 +74,9 @@ Used all the old resources mentioned in last days.
 ### Day 13
 Used all the old resources mentioned in last days.
 
+### Day 14
+[Most effective way to cut a slice in Golang](https://www.reddit.com/r/golang/comments/3t0n0n/must_efficient_way_to_cut_slice/)
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)
