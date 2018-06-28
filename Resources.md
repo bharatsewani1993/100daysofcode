@@ -59,8 +59,8 @@ Used all the old resources mentioned in last days.
 
 ### Day 9.
 [Building simple web server with Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/03.2.md)
-[Golang Template Tutorials]
-(https://github.com/astaxie/build-web-application-with-golang/blob/master/en/07.4.md)
+
+[Golang Template Tutorials](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/07.4.md)
 
 ### Day 10.
 Used all the old resources mentioned in last days.
@@ -76,6 +76,10 @@ Used all the old resources mentioned in last days.
 
 ### Day 14
 [Most effective way to cut a slice in Golang](https://www.reddit.com/r/golang/comments/3t0n0n/must_efficient_way_to_cut_slice/)
+
+[How to find difference between two slice](https://stackoverflow.com/questions/19374219/how-to-find-the-difference-between-two-slices-of-strings-in-golang)
+
+[Most effective way to get count of slice elements](https://www.daniweb.com/programming/computer-science/code/496353/sort-a-word-frequency-count-golang)
 
 ## Contents
 * [Rules](/Rules.md)
