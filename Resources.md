@@ -81,6 +81,11 @@ Used all the old resources mentioned in last days.
 
 [Most effective way to get count of slice elements](https://www.daniweb.com/programming/computer-science/code/496353/sort-a-word-frequency-count-golang)
 
+### Day 15
+[IP to Location API](http://ip-api.com)
+[How to use JSON API in Golang](https://medium.com/@IndianGuru/consuming-json-apis-with-go-d711efc1dcf9)
+
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)

@@ -67,6 +67,11 @@ I'll continue my practice for the day and try to Implement more functions in it.
 
 Edit: I worked more on it and created 5 new array functions.
 
+## Day 15 [29-june-2018]
+It was a good day to practise Golang, I learned new things.
+Used 3rd party JSON API to fetch user location, timezone and other information via his/her IP address.
+[Repository Link](https://github.com/bharatsewani1993/ip2location)
+
 
 ## Contents
   * [Rules](/Rules.md)
