@@ -83,6 +83,7 @@ Used all the old resources mentioned in last days.
 
 ### Day 15
 [IP to Location API](http://ip-api.com)
+
 [How to use JSON API in Golang](https://medium.com/@IndianGuru/consuming-json-apis-with-go-d711efc1dcf9)
 
 
