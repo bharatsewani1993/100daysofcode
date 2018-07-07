@@ -72,6 +72,12 @@ It was a good day to practise Golang, I learned new things.
 Used 3rd party JSON API to fetch user location, timezone and other information via his/her IP address.
 [Repository Link](https://github.com/bharatsewani1993/ip2location)
 
+## Day 16 [7-july-2018]
+I missed the logs of many days and someday didn't coded enough. It was a Saturday Morning and start of a new weekend. I get started with Email Script and CSV Reading and Writing Script with Golang.
+[Email Script](https://github.com/bharatsewani1993/Golangemail)
+
+[CSV Reading Writing](https://github.com/bharatsewani1993/golangcsv)
+
 
 ## Contents
   * [Rules](/Rules.md)

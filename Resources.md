@@ -86,6 +86,11 @@ Used all the old resources mentioned in last days.
 
 [How to use JSON API in Golang](https://medium.com/@IndianGuru/consuming-json-apis-with-go-d711efc1dcf9)
 
+### Day 16
+[Golang net/smtp for email](https://golang.org/pkg/net/smtp/)
+
+[Read CSV File](https://www.thepolyglotdeveloper.com/2017/03/parse-csv-data-go-programming-language/)
+[Write CSV File](https://golangcode.com/write-data-to-a-csv-file/)
 
 ## Contents
 * [Rules](/Rules.md)
