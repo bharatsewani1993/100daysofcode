@@ -92,6 +92,9 @@ Used all the old resources mentioned in last days.
 [Read CSV File](https://www.thepolyglotdeveloper.com/2017/03/parse-csv-data-go-programming-language/)
 [Write CSV File](https://golangcode.com/write-data-to-a-csv-file/)
 
+### Day 17
+[Imaging Image processing library](https://github.com/disintegration/imaging)
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)

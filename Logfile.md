@@ -78,6 +78,11 @@ I missed the logs of many days and someday didn't coded enough. It was a Saturda
 
 [CSV Reading Writing](https://github.com/bharatsewani1993/golangcsv)
 
+## Day 17 [9-july-2018]
+Yesterday, I contributed to an open source project was not able to code in Golang. Today I used [Imaging](https://github.com/disintegration/imaging) package to do image processing with Golang. I'll try to keep my streak continue for next seven days.
+[Repository Link](https://github.com/bharatsewani1993/imageprocessing)
+
+
 
 ## Contents
   * [Rules](/Rules.md)
