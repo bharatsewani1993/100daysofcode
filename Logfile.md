@@ -82,6 +82,10 @@ I missed the logs of many days and someday didn't coded enough. It was a Saturda
 Yesterday, I contributed to an open source project was not able to code in Golang. Today I used [Imaging](https://github.com/disintegration/imaging) package to do image processing with Golang. I'll try to keep my streak continue for next seven days.
 [Repository Link](https://github.com/bharatsewani1993/imageprocessing)
 
+## Day 18 [10-july-2018]
+For the day I worked with language detection with Golang.
+I used a third party package Getlang to perform actions.
+[Repository Link](https://github.com/bharatsewani1993/languagedetection)
 
 
 ## Contents

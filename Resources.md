@@ -95,6 +95,9 @@ Used all the old resources mentioned in last days.
 ### Day 17
 [Imaging Image processing library](https://github.com/disintegration/imaging)
 
+### Day 18
+[Golang language detection package](github.com/rylans/getlang)
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)
