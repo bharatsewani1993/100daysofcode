@@ -87,6 +87,9 @@ For the day I worked with language detection with Golang.
 I used a third party package Getlang to perform actions.
 [Repository Link](https://github.com/bharatsewani1993/languagedetection)
 
+### Day 19 [11-july-2018]
+Today I tried to work on an open source project [Getlang](https://github.com/rylans/getlang). I added Punjabi language support to it and created a pull request. My code failed with Tarvis CI test cases so for the next day, I'll try to improve my code and try to resubmit pull request.
+[Repository Link](https://github.com/bharatsewani1993/getlang)
 
 ## Contents
   * [Rules](/Rules.md)
