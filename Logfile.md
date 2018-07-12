@@ -91,6 +91,9 @@ I used a third party package Getlang to perform actions.
 Today I tried to work on an open source project [Getlang](https://github.com/rylans/getlang). I added Punjabi language support to it and created a pull request. My code failed with Tarvis CI test cases so for the next day, I'll try to improve my code and try to resubmit pull request.
 [Repository Link](https://github.com/bharatsewani1993/getlang)
 
+### Day 20 [12-july-2018]
+I continued the yesterday's work and tried to fix the bugs in my previous code. Today It passed all the test cases and owner merged my pull request to the repository. Now I am officially a contributor to [Getlang](https://github.com/rylans/getlang). 
+
 ## Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)

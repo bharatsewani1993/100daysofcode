@@ -101,6 +101,9 @@ Used all the old resources mentioned in last days.
 ### Day 19
 [Ngram Using Golang](https://play.golang.org/p/21NUZLPVKmF)
 
+### Day 20
+[Comments of owner](github.com/rylans/getlang)
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)
