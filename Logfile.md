@@ -92,7 +92,11 @@ Today I tried to work on an open source project [Getlang](https://github.com/ryl
 [Repository Link](https://github.com/bharatsewani1993/getlang)
 
 ### Day 20 [12-july-2018]
-I continued the yesterday's work and tried to fix the bugs in my previous code. Today It passed all the test cases and owner merged my pull request to the repository. Now I am officially a contributor to [Getlang](https://github.com/rylans/getlang). 
+I continued the yesterday's work and tried to fix the bugs in my previous code. Today It passed all the test cases and owner merged my pull request to the repository. Now I am officially a contributor to [Getlang](https://github.com/rylans/getlang).
+
+### Day 21 [13-July-2018]
+I added Kannada language support to the open source package and created the pull request. The owner accepted and merged it with the master repository.[Getlang](https://github.com/rylans/getlang/commit/bc10a4549029b385278b0a50a1ffd92a2955a54d)
+
 
 ## Contents
   * [Rules](/Rules.md)
