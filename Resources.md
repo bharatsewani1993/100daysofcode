@@ -107,6 +107,8 @@ Used all the old resources mentioned in last days.
 ### Day 21
 Used all the old resources mentioned in last days.
 
+### Day 22
+Used all the old resources mentioned in last days.
 
 ## Contents
 * [Rules](/Rules.md)

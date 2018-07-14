@@ -97,6 +97,9 @@ I continued the yesterday's work and tried to fix the bugs in my previous code. 
 ### Day 21 [13-July-2018]
 I added Kannada language support to the open source package and created the pull request. The owner accepted and merged it with the master repository.[Getlang](https://github.com/rylans/getlang/commit/bc10a4549029b385278b0a50a1ffd92a2955a54d)
 
+### Day 22 [14-July-2018]
+Again I worked on the same package and added Malyalam language support to it and created the pull request. repository.[Getlang](https://github.com/rylans/getlang/pull/12/commits)
+
 
 ## Contents
   * [Rules](/Rules.md)
