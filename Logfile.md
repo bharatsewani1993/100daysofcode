@@ -100,6 +100,8 @@ I added Kannada language support to the open source package and created the pull
 ### Day 22 [14-July-2018]
 Again I worked on the same package and added Malyalam language support to it and created the pull request. repository.[Getlang](https://github.com/rylans/getlang/pull/12/commits)
 
+### Day 23 [15-July-2018]
+Again I worked on the same package and added Marathi language support to it. I am waiting to get merged of my last pull request then I'll create a pull request to merge it too. repository.[Getlang](https://github.com/bharatsewani1993/getlang/commit/5994c1e7e587ddbd097ee69cfabba200e966db9f)
 
 ## Contents
   * [Rules](/Rules.md)
