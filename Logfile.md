@@ -103,6 +103,10 @@ Again I worked on the same package and added Malyalam language support to it and
 ### Day 23 [15-July-2018]
 Again I worked on the same package and added Marathi language support to it. I am waiting to get merged of my last pull request then I'll create a pull request to merge it too. repository.[Getlang](https://github.com/bharatsewani1993/getlang/commit/5994c1e7e587ddbd097ee69cfabba200e966db9f)
 
+### Day 24 [16-July-2016]
+Today I worked with Golang string functions. [Repository Link](https://github.com/bharatsewani1993/golangstringfunctions)
+
+
 ## Contents
   * [Rules](/Rules.md)
   * [Log - click here to see my progress](/Logfile.md)

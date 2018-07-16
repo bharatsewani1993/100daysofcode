@@ -113,6 +113,9 @@ Used all the old resources mentioned in last days.
 ### Day 23
 Used all the old resources mentioned in last days.
 
+### Day 24
+[Golang string functions](http://www.golangprograms.com/golang/string-functions/)
+
 ## Contents
 * [Rules](/Rules.md)
 * [Log - click here to see my progress](/Logfile.md)
