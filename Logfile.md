@@ -106,6 +106,10 @@ Again I worked on the same package and added Marathi language support to it. I a
 ### Day 24 [16-July-2016]
 Today I worked with Golang string functions. [Repository Link](https://github.com/bharatsewani1993/golangstringfunctions)
 
+### Challange Closed ###
+After working for 24 days on it, I got a full-time job and spending my 9 hours a day to code. I'll start some new challenges soon to create new habits and do some new learnings.
+Thank you
+Bharat
 
 ## Contents
   * [Rules](/Rules.md)
